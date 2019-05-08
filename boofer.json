@@ -1,0 +1,10 @@
+{
+  "hotkey": [
+    {
+      "key": "F1",
+      "val": "testValue ;)"
+    }
+  ],
+  "count": 29,
+  "object HTMLInputElement": {}
+}

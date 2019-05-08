@@ -1,0 +1,15 @@
+{
+  "main": "index.html",
+  "name": "MultiBuffer",
+  "description": "Наша первое приложение на NW",
+  "version": "0.0.1",
+  "window": {
+    "width": 350,
+    "height": 400,
+    "icon": "icon.ico"
+  },
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "spin.js": "^4.0.0"
+  }
+}
